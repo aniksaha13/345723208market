@@ -356,8 +356,11 @@ https://cdn-tt.pages.dev/ch5.m3u8
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/XIcxAfg.png" group-title="sports",Bein Sport Extra 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/XIcxAfg.png" group-title="sports",Bein Sport-1
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/tFwATiy.png" group-title="sports",Bein Sport-1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/tFwATiy.png" group-title="sports",Bein Sport-3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
 
 #======movie======
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Movie",khusbu bangla
